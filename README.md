@@ -1,0 +1,1 @@
+This is my personal website made using the KARDS template featured on Styleshout.
